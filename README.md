@@ -12,8 +12,7 @@
 
 ## Service Boundaries
 
-![Architecture](PAD Labs\Screenshot 2024-09-11 221036.png
-)
+![Architecture](.\Screenshot 2024-09-11 221036.png)
 
 - **User Management Service**: Handles user authentication, registration, profile management, and account settings.
 - **File Management Service**: Manages file uploads, storage, and streaming of music beats. Includes beat metadata and file conversions.
