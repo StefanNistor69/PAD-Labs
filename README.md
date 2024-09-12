@@ -191,7 +191,7 @@
 ## Deployment and Scaling
 
 1. **Deployment:**
-   Each microservice will be deployed in individual Docker containers to ensure portability and isolated environments. Docker Compose will be used to coordinate the deployment of all services together.
+   Each microservice will be deployed in individual Docker containers to ensure portability and isolated environments. Docker  will be used to coordinate the deployment of all services together.
 
 2. **Scaling:**
    Services will be horizontally scalable using Kubernetes for orchestration, allowing multiple instances of services like the Music Player and Beat Upload service to handle large traffic volumes efficiently.
