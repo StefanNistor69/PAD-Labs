@@ -12,7 +12,7 @@
 
 ## Service Boundaries
 
-![Architecture](images/diagram.png)
+![Architecture](images/scheme.png)
 
 
 - **User Management Service**: Handles user authentication, registration, profile management, and account settings.
